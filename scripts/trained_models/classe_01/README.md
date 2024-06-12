@@ -1,0 +1,1 @@
+# Modelo com dataset separado em benigno = 0 e malignos = 1 (classes binárias)
