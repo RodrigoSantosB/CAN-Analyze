@@ -129,7 +129,7 @@ traitlets==5.14.3
 triton==2.3.0
 trustee==1.1.6
 typing_extensions==4.12.1
-urllib3==2.2.1
+urllib3==2.2.2
 wcwidth==0.2.13
 Werkzeug==3.0.3
 wrapt==1.16.0
