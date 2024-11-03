@@ -1,5 +1,4 @@
 .env
-.vscode
 # scripts/trained_models
 # CAN-Analyze/scripts/trained_models
 ids-network-env
